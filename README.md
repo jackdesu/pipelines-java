@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/kuochehung/TestProject/_apis/build/status/jackdesu.pipelines-java%20(1)?branchName=master)](https://dev.azure.com/kuochehung/TestProject/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
